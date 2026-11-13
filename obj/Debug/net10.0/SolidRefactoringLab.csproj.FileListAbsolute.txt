@@ -1,0 +1,14 @@
+C:\Users\Norem\Downloads\SolidRefactoringLab\SolidRefactoringLab\bin\Debug\net10.0\SolidRefactoringLab.exe
+C:\Users\Norem\Downloads\SolidRefactoringLab\SolidRefactoringLab\bin\Debug\net10.0\SolidRefactoringLab.deps.json
+C:\Users\Norem\Downloads\SolidRefactoringLab\SolidRefactoringLab\bin\Debug\net10.0\SolidRefactoringLab.runtimeconfig.json
+C:\Users\Norem\Downloads\SolidRefactoringLab\SolidRefactoringLab\bin\Debug\net10.0\SolidRefactoringLab.dll
+C:\Users\Norem\Downloads\SolidRefactoringLab\SolidRefactoringLab\bin\Debug\net10.0\SolidRefactoringLab.pdb
+C:\Users\Norem\Downloads\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norem\Downloads\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.AssemblyInfoInputs.cache
+C:\Users\Norem\Downloads\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.AssemblyInfo.cs
+C:\Users\Norem\Downloads\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.csproj.CoreCompileInputs.cache
+C:\Users\Norem\Downloads\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.dll
+C:\Users\Norem\Downloads\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\refint\SolidRefactoringLab.dll
+C:\Users\Norem\Downloads\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.pdb
+C:\Users\Norem\Downloads\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.genruntimeconfig.cache
+C:\Users\Norem\Downloads\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\ref\SolidRefactoringLab.dll
