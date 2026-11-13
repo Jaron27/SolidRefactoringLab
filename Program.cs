@@ -52,7 +52,7 @@ namespace SolidRefactoringLab
         }
     }
 
-    // REPORT SAVER
+   
     public class ReportSaver
     {
         public void SaveToFile(string filename)
@@ -61,7 +61,7 @@ namespace SolidRefactoringLab
         }
     }
 
-    // MAIN PROGRAM
+  
     class Program
     {
         static void Main(string[] args)
